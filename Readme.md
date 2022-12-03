@@ -48,6 +48,8 @@
 ### Dataset 
 
 - https://github.com/Bombbom/Ethereum-Smart-Contract-Security
+- https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts
+
 :pushpin: Raw dataset
 - source code from etherscan
 
