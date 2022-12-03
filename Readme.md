@@ -26,7 +26,7 @@
 
 - Symbolic representation
 
-- Vector representation for contract snippet
+- Vector representation for contract snippet (work2vec with gensim)
 
 ![image](https://user-images.githubusercontent.com/108725538/205420982-b4d84763-f838-40ba-93bc-05067dc94092.png)
 
@@ -48,7 +48,7 @@
 ### Dataset 
 
 - https://github.com/Bombbom/Ethereum-Smart-Contract-Security
-
+:pushpin: Raw dataset
 - source code from etherscan
 
 - labeling by slither tool
@@ -57,6 +57,7 @@
 
 - dataset info
 
+:pushpin: Vector representation with work2vec 
 
 ### Model
 
