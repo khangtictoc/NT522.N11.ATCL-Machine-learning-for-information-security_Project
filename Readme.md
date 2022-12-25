@@ -76,19 +76,7 @@
 - https://github.com/Bombbom/Ethereum-Smart-Contract-Security
 - https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts
 
-:pushpin: Raw dataset
-- source code from etherscan
 
-- labeling by slither tool
 
-- dataset shape
-
-- dataset info
-
-:pushpin: Vector representation with word2vec 
-
-### Model
-
-### Result 
 
 ## Future work 
