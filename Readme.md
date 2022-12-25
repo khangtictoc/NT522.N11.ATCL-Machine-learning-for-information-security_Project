@@ -76,6 +76,12 @@
 - https://github.com/Bombbom/Ethereum-Smart-Contract-Security
 - https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts
 
+## Visualize Word Embbedding
+
+- http://projector.tensorflow.org/
+
+![image](https://user-images.githubusercontent.com/108725538/209470907-8e532f2e-8667-4ad4-9ac6-345f39f2b7dc.png)
+
 
 
 
